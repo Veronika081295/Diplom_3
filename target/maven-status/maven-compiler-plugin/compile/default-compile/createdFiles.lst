@@ -1,0 +1,11 @@
+praktikum\API\UserUtils.class
+praktikum\Pages\LoginPage.class
+praktikum\Pages\ProfilePage.class
+praktikum\API\User.class
+praktikum\Pages\MainPage.class
+praktikum\Pages\ResetPasswordPage.class
+praktikum\Assertions.class
+praktikum\API\UserAPI.class
+praktikum\API\RestApiConstants.class
+praktikum\WebDriverConfig.class
+praktikum\Pages\RegistrationPage.class
